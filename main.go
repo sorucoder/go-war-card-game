@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/sorucoder/southhills-it100-finals/chapter10/cards"
+	"github.com/sorucoder/war-card-game/cards"
 )
 
 func drawCard(hand *[]*cards.Card) *cards.Card {
